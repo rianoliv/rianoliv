@@ -8,7 +8,7 @@ Backend · Automation · AI
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=js,git,html,css,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,linux" />
 
 </div>
 
@@ -18,7 +18,7 @@ Backend · Automation · AI
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,mysql,docker,python,aws" />
+<img src="https://skillicons.dev/icons?i=cs,lua,mysql,docker,aws" />
 
 </div>
 
