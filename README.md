@@ -2,13 +2,11 @@
 
 # Rian d'Oliveira
 
-## Software Engineering Student
-
-Backend · Automation · AI
+## Software Development Student
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode,linux" />
 
 </div>
 
@@ -18,7 +16,7 @@ Backend · Automation · AI
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,lua,mysql,docker,aws" />
+<img src="https://skillicons.dev/icons?i=py,lua,ruby,mysql,docker,aws" />
 
 </div>
 
@@ -29,7 +27,7 @@ Backend · Automation · AI
 
 Technical education focused on software development, programming, databases and computer systems.
 
-Frontend development is part of my technical background, while my current direction is focused on **software engineering, backend development, automation and AI**.
+Frontend development is part of my technical background, while my current direction is focused on **software engineering, backend development, automation and data**.
 
 ---
 
