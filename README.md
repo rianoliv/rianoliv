@@ -12,10 +12,12 @@ puts "Seja bem-vindo!"
 ```
 
  <br>
-Olá! Meu nome é Rian, sou estudante do curso técnico de Desenvolvimento de Sistemas e entusiasta da tecnologia e programação. Tenho conhecimentos em tecnologias web, Git, GitHub Linux, Ruby, SQL. Atualmente, estou aprofundando meus estudos em Ruby, SQL e MySQL, buscando expandir minhas habilidades em desenvolvimento backend, Engenharia de Software e arquitetura de sistemas.
+Olá! Meu nome é Rian, sou estudante de Desenvolvimento de Sistemas e entusiasta da tecnologia e da programação.<br><br>
+
+Tenho conhecimentos em desenvolvimento web, Git, GitHub e Linux. Atualmente, estou aprofundando meus estudos em Ruby, SQL e MySQL, com foco em desenvolvimento backend, Engenharia de Software e arquitetura de sistemas.
 
 
 ### Tecnologias e ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,nodejs,js,html,css,mysql,git,github,linux,vscode" alt="Minhas tecnologias" />
+  <img src="https://skillicons.dev/icons?i=ruby,nodejs,js,html,css,mysql,git,github,linux,vscode,md" alt="Minhas tecnologias" />
 </div>
