@@ -19,5 +19,5 @@ Tenho conhecimentos em desenvolvimento web, Git, GitHub e Linux. Atualmente, est
 
 ### Tecnologias e ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,nodejs,js,html,css,mysql,git,github,linux,vscode,md" alt="Minhas tecnologias" />
+  <img src="https://skillicons.dev/icons?i=ruby,js,html,css,mysql,git,github,linux,vscode,md" alt="Minhas tecnologias" />
 </div>
